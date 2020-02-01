@@ -73,4 +73,9 @@ Plugins/*/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 
+Rex/Intermediate/CachedAssetRegistry.bin
+Rex/Saved/AutoScreenshot.png
+Rex/Saved/Config/Windows/EditorPerProjectUserSettings.ini
+Rex/Saved/Logs/Rex.log
+
 Logs/* 	
